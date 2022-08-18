@@ -10,7 +10,8 @@
 ## Deploy Now!
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/wvth04?referralCode=crEeFr)
 
-Found Bug 🐛?
+
+## Found Bug 🐛?
 Dm Me! [Contact](t.me/@ItzMehHaznLol)
 
 Have A Good Day 🌟
