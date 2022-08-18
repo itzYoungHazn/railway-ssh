@@ -1,8 +1,8 @@
 # railway-ssh
 
-[✅] Script Created By @Hazn 😎
-[⚙️] This Script Will Make You Container Can Access With Ngrok ⚙️
-[🌟] Fork Me & Stars 🤩 
+> Script Created By @Hazn 😎
+> This Script Will Make You Container Can Access With Ngrok ⚙️
+> Fork Me & Stars 🤩 
 
 ## Note:
 * Read this Before Deploy To avoid getting banned/terminated :
