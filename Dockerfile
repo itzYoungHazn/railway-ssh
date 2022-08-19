@@ -1,7 +1,5 @@
-FROM ubuntu:latest
-RUN apt update -y && apt upgrade -y && apt install -y locales \
-&& localedef -i en_US -c -f UTF-8 -A /usr/share/locale/locale.alias en_US.UTF-8
-ENV LANG en_US.utf8
+FROM debian:stable
+RUN apt update -y > /dev/null 2>&1 && apt upgrade -y > /dev/null 2>&1
 ARG ngrokid
 ARG Password
 ENV Password=${Password}
