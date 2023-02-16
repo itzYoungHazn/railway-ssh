@@ -11,11 +11,8 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/O1H6fD?referralCode=49-ICI)
 
 ## Update 🔥
-* Change Os From Debian To Ubuntu.
-* More Stable Container.
-* Now You Can Make Deploy Your Website.
-* Use Port 80 (primary)
-* Replace Old Link To New
+* Add Stupid Wiki [Here](https://github.com/itzYoungHazn/railway-ssh/wiki)
+* I Will Add More Later ((
 
 ## Found Bug 🐛?
 Dm Me! [Contact](t.me/@ItzMehHaznLol)
