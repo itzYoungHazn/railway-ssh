@@ -12,7 +12,7 @@
 
 ## Update 🔥
 * Add Stupid Wiki [Here](https://github.com/itzYoungHazn/railway-ssh/wiki)
-* I Will Add More Later ((
+* Add New Os Branch Check it Out
 
 ## Found Bug 🐛?
 Dm Me! [Contact](t.me/@ItzMehHaznLol)
