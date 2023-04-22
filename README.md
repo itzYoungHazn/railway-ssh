@@ -12,7 +12,11 @@
 
 ## Update 🔥
 * Add Stupid Wiki [Here](https://github.com/itzYoungHazn/railway-ssh/wiki)
-* Add New Tag 
+* Add Instant OS
+
+## List Os
+* [Debian](https://github.com/itzYoungHazn/railway-ssh/tree/debian-latest)
+* More
 
 ## Found Bug 🐛?
 Dm Me! [Contact](t.me/@ItzMehHaznLol)
