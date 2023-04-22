@@ -18,6 +18,8 @@
 * [Debian](https://github.com/itzYoungHazn/railway-ssh/tree/debian-latest)
 * [Kali](https://github.com/itzYoungHazn/railway-ssh/tree/Kali-linux)
 * [Fedora](https://github.com/itzYoungHazn/railway-ssh/tree/fedora-latest)
+* [Centos]
+(https://github.com/itzYoungHazn/railway-ssh/tree/centoslatest)
 
 ## Found Bug 🐛?
 Dm Me! [Contact](t.me/@ItzMehHaznLol)
