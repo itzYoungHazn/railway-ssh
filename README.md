@@ -16,7 +16,8 @@
 
 ## List Os
 * [Debian](https://github.com/itzYoungHazn/railway-ssh/tree/debian-latest)
-* More
+* [Kali](https://github.com/itzYoungHazn/railway-ssh/tree/Kali-linux)
+* More...
 
 ## Found Bug 🐛?
 Dm Me! [Contact](t.me/@ItzMehHaznLol)
