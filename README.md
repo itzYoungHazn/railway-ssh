@@ -22,7 +22,7 @@
 
 
 ## Found Bug 🐛?
-* Telegram [Contact](t.me/@ItzMehHazn)
-* Whatsapp [Contact](wa.me/+6281539336834)
+* Telegram [Contact](http://t.me/@ItzMehHazn)
+* Whatsapp [Contact](http://wa.me/+6281539336834)
 
 Have A Good Day 🌟
