@@ -22,6 +22,7 @@
 
 
 ## Found Bug 🐛?
-Dm Me! [Contact](t.me/@ItzMehHaznLol)
+Telegram [Contact](t.me/@ItzMehHazn)
+Whatsapp [Contact](wa.me/+6281539336834)
 
 Have A Good Day 🌟
